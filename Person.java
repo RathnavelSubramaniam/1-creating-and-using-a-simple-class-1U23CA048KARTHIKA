@@ -14,7 +14,7 @@ class Persona{
 class Person{
     public static void main(String args[]){
         
-        Persona a1 = new Persona("John","Dos",30);
+        Persona a1 = new Persona("John","Doe",30);
         Persona a2 = new Persona("Alice","Smith",25);
         System.out.println("Person 1:"+a1.getfullname());
         System.out.println("Person 2:"+a2.getfullname());
